@@ -34,7 +34,7 @@
 برای نصب دستور زیر را وارد کنید<br>
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mazha1394/as/master/install.sh --ipv4)
 ```
 
 # آپدیت پنل ادمین
@@ -42,7 +42,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/maste
 نیازی به نصب مجدد نیست . با این روش فقط پنل ادمین آپدیت می شود . در این روش اطلاعات دیتابیس تغییر نمی کند
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/69learn/rocket-shh-panel/master/update-panel.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/mazha1394/as/master/update-panel.sh --ipv4)
 ```
 
 
