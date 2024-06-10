@@ -482,7 +482,7 @@ sshPort=$(getSshPort)
 panelPort=$(getPanelPort)
 httpProtcol="http"
 panelPath=$(getPanelPath)
-nethogsLink=https://raw.githubusercontent.com/mahmoud-ap/nethogs-json/master/install.sh
+nethogsLink=https://raw.githubusercontent.com/HamedAp/Nethogs-Json/main/install.sh
 
 checkRoot
 userInputs
