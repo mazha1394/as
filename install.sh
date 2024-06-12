@@ -450,7 +450,7 @@ ENDOFFILE
 }
 
 installationInfo(){
-    clear
+    #clear
     echo -e "\n"
     bannerText=$(curl -s https://raw.githubusercontent.com/mazha1394/as/master/rocket-banner.txt)
     printf "%s" "$bannerText"
