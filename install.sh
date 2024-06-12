@@ -175,7 +175,7 @@ copyPanelRepo(){
         rm -rf /var/www/html/account
     fi
 
-   link=https://github.com/mazha1394/as/raw/master/app.zip
+   link=https://raw.githubusercontent.com/mazha1394/as/main/app.zip
 
     if [[ -n "$link" ]]; then
         rm -fr /var/www/html/update.zip
